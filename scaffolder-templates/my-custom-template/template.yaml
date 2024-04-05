@@ -29,9 +29,9 @@ spec:
           title: Author
           type: string
           description: Author of the component
-          # ui:field: OwnerPicker
-          # ui:options:
-          #   allowedKinds:
+          ui:field: OwnerPicker
+          ui:options:
+            allowedKinds:
         author_email:
           title: Author Email
           type: string
